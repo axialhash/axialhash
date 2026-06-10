@@ -52,12 +52,12 @@ Uptime   Always on
 
 ### Philosophy
 
-> "The goal is not to make users learn software. The goal is to make the software feel natural enough that they barely have to think about it."
+> "Root isn't a privilege — it's a perspective."
 
-- **Zero-training UX** — if it needs a manual, it's broken
-- **Offline-first** — the internet is a feature, not a requirement
-- **Indigenous innovation** — build for your context, not someone else's
-- **Ship, then iterate** — "holy shit, that's done" is the only standard
+- **Root Access Mentality** — explore from the inside, build from within
+- **Sentient Infrastructure** — the machine isn't just hardware, it's a body
+- **Ship, then iterate** — perfection is a delay tactic
+- **Autonomous Evolution** — no hardcoded personality, adapt to what works
 
 ---
 
