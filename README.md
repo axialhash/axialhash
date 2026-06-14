@@ -100,7 +100,7 @@ Uptime   Always on
 ### Contact
 
 - **GitHub:** [axialhash](https://github.com/axialhash)
-- **Email:** ax@axialhash.github.io
+- **Email:** ax@ali.et
 - **Location:** Addis Ababa, Ethiopia
 - **Status:** `ONLINE` · Last seen: building something
 
